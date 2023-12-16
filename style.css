@@ -1,0 +1,48 @@
+
+    
+.topo {
+    background-color: rgb(158, 204, 241);
+    height: 40px;
+}
+nav {
+    position: absolute;
+    top: 0;
+    right: 0px;
+    
+}
+
+nav li {
+    display: inline-block;
+    margin: 0px 40px 0px 0px;
+    
+        
+}
+.imagem_principal{
+    
+    height: 250px;
+    position:relative;
+    
+    
+}
+.torre {
+    height: 250px;
+    position:relative;
+    
+    
+    
+}
+.sagrada {
+    height: 250px;
+    position:relative;
+   
+    
+}
+.coliseu{
+    height: 250px;
+    position:relative;
+   
+}
+footer{
+    position: relative;
+    top: 20px;
+}
